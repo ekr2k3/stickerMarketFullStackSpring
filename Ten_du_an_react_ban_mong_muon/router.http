@@ -1,0 +1,19 @@
+
+### Home
+GET http://localhost:5173/
+
+### Home
+
+GET http://localhost:5173/home
+
+### About
+GET http://localhost:5173/about
+
+### Contact
+GET http://localhost:5173/contact
+
+### Login
+GET http://localhost:5173/login
+
+### Cart
+GET http://localhost:5173/cart
